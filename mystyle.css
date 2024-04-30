@@ -9,7 +9,7 @@ body {
 /* Style the header */
 header {
   background-color: #666;
-  padding: 15px;
+  padding: 5px;
   text-align: left;
   font-size: 32px;
   color: white;
@@ -19,7 +19,7 @@ header {
   overflow: hidden;
   background-color: #333;
   position: fixed; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
+  top: 15; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
 }
 
@@ -41,7 +41,7 @@ header {
 
 /* Main content */
 .main {
-  margin-top: 30px; /* Add a top margin to avoid content overlay */
+  margin-top: 40px; /* Add a top margin to avoid content overlay */
 }
 /* Create two columns/boxes that floats next to each other */
 nav {

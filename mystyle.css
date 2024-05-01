@@ -22,7 +22,7 @@ header {
 
 /* Links inside the navbar */
 .navbar a {
-  float: bottom;
+  float: left;
   display: block;
   color: #f2f2f2;
   text-align: center;
